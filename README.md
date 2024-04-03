@@ -1,4 +1,5 @@
-# Resume-analytics-
+# Resume-analytics
+
 
 This tool allows you to upload a PDF resume and convert it into a YAML format. It utilizes OpenAI's GPT-3.5 model for parsing and formatting the resume content.
 
